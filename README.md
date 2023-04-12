@@ -1,17 +1,19 @@
 # project-list
+| [中文(简体)](./README.md) |
 
-## tntjs
-这是一个JavaScript的前端框架,使用TypeScript实现,可以做到多页面开发
+## newcar
+一个基于canvas的动画引擎
 
 * 团队: [BugDuck](https://github.com/Bug-Duck/)
 * 主要维护者: [Liu Chenyang](https://github.com/sheepbox8646)
-* 联系邮箱: bugduck0425@163.com
+* 联系邮箱: bugduck@163.com
 
 | 站台  | 链接  |
 |---|---|
-| Github  | [Click Here](https://github.com/Bug-Duck/tntjs)  |
-| Gitee  | [Click Here](https://gitee.com/BugDucker/tntjs)  |
-| 官网  | [Click Here](tnt.js.org)  |
+| Github  | [Click Here](https://github.com/Bug-Duck/newcar)  |
+| Gitee  | [Click Here](https://gitee.com/BugDucker/newcar)  |
+| 官网  | [Click Here](newcar.js.org)  |
+
 
 ## RingRobotX
 一个采用单轮对话设计的中文模块化语音机器人框架
