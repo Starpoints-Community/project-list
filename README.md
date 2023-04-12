@@ -12,7 +12,7 @@
 |---|---|
 | Github  | [Click Here](https://github.com/Bug-Duck/newcar)  |
 | Gitee  | [Click Here](https://gitee.com/BugDucker/newcar)  |
-| 官网  | [Click Here](newcar.js.org)  |
+| 中文站 | [Click Here](newcar.js.org/zh-cn)  |
 
 
 ## RingRobotX
